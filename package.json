@@ -6,7 +6,8 @@
   "scripts": {
   "start": "node src/index.js",
   "dev": "nodemon src/index.js",
-  "test:me": "node tests/check_me.js"
+  "test:me": "node tests/check_me.js",
+  "deploy": "npm ci --omit=dev"
 },
   "keywords": [],
   "author": "",

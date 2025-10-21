@@ -28,8 +28,8 @@ Copy code
 
 Create a `.env` file in the project root. Example:
 
-USER_EMAIL=matthewgodsent@gmail.com
-USER_NAME=Matthew Oluwafisayo Adeniyi
+USER_EMAIL=jobbe@gmail.com
+USER_NAME=Joy Obe
 USER_STACK=Node.js/Express
 PORT=3000
 CATFACT_TIMEOUT_MS=2000

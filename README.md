@@ -11,7 +11,7 @@ This project is built for the HNGi13 Backend Internship Stage 0 task. It exposes
 
 Install all dependencies using:
 
-```bash
+bash
 npm install
 Package	Purpose
 express	Web server framework

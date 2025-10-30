@@ -6,9 +6,6 @@
  *   (defaults to http://localhost:3000 if SERVER_URL not provided)
  *
  * Exits with code 0 on success, non-zero on failure.
- *
- * Node 18+ required for global fetch. For older Node, install node-fetch and
- * run with a loader or modify script to import it.
  */
 
 const SERVER_URL = process.env.SERVER_URL || 'http://localhost:3000';
